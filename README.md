@@ -23,7 +23,7 @@ Key objectives include:
 ## 📂 Repository Structure
 
 - `Piecewise_Linear_Map_Under_Stochastic_Perturbations.ipynb` → Jupyter notebook implementing the generalized map and stochastic simulations.  
-- `DOcumentación Exploración en las Dinámicas.pdf` → Detailed PDF report of the study and theoretical background.  
+- `Documentación Exploración en las Dinámicas.pdf` → Detailed PDF report of the study and theoretical background.  
 
 ---
 
